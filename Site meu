@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <title>Maykon Campos — Cantor Oficial</title>
+  <meta name="description" content="Maykon Campos é cantor brasileiro de funk e pop. Ouça suas músicas e acompanhe seus lançamentos.">
+</head>
+
+<body style="font-family: Arial; text-align:center; background:#111; color:white;">
+
+  <h1>Maykon Campos</h1>
+  <p>Cantor • Performer • Artista Musical</p>
+
+  <img src="https://i.imgur.com/placeholder.jpg" width="250">
+
+  <p>
+    Maykon Campos é um cantor brasileiro de funk e pop, nascido em 11 de fevereiro de 2003 em Araguari (MG).
+  </p>
+
+  <h2>Ouça agora</h2>
+  <a href="https://open.spotify.com/artist/5kgME4Pd4AZIMaGjzjVM4C">Spotify</a><br><br>
+
+  <h2>Redes sociais</h2>
+  <a href="https://www.instagram.com/maykoncamposofc">Instagram</a><br>
+  <a href="https://youtube.com/@maykoncamposoficial">YouTube</a>
+
+</body>
+</html>
